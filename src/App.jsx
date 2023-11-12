@@ -4,8 +4,6 @@ import {
   Billing,
   Business,
   CTA,
-  CardDeal,
-  Clients,
   Footer,
   Hero,
   Navbar,
@@ -35,9 +33,7 @@ function App() {
           <Stats />
           <Business />
           <Billing />
-          <CardDeal />
           <Testimonials />
-          <Clients />
           <CTA />
           <Footer />
         </div>
