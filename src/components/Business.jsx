@@ -37,7 +37,7 @@ const Business = () => {
       <div className={layout.sectionInfo}>
         <h2 className={styles.heading2}>
           You get the Grades, <br className="sm:block hidden" /> We'll handle
-          the Assingment
+          the Assignment
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mr-5`}>
           while we take care of your assignments. Our team of experienced

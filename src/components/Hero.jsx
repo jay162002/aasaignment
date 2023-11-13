@@ -20,7 +20,7 @@ const Hero = () => {
           />
           <p className={`${styles.paragraph} ml-2`}>
             <span className="text-white">100%</span> Satisfaction{" "}
-            <span className="text-white">Gurrented</span> with Us
+            <span className="text-white">And 0%</span> Plagiarism
           </p>
         </div>
         <div className="flex flex-row justify-between items-center w-full">
@@ -35,11 +35,15 @@ const Hero = () => {
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full">
           Assignment Solution
         </h1>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          where academic excellence meets convenience. We connect college
-          students with expert writers who can craft assignments that ensure
-          success. Say goodbye to academic stress and hello to exceptional
-          grades.
+        <p className={`${styles.paragraph} max-w-[470px] mt-5 text-justify`}>
+          <strong>Struggling with college assignments? </strong>
+          <br /> Look no further! Assignment Partner is here to make your
+          academic journey smoother. We connect college students with expert
+          writers who can craft assignments that ensure success.
+          <br />
+          <br />
+          Join now and experience the ease of getting expert help right at
+          your fingertips!
         </p>
       </div>
       <div
