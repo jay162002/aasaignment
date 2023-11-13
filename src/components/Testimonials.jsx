@@ -17,8 +17,9 @@ const Testimonials = () => {
         </h2>
         <div className="w-full md:mt-0 mt-6">
           <p className={`${styles.paragraph} text-left max-w-[450px]`}>
-            Everything you need Get Good Grades and Get you are Assingement Done
-            anywhere on the planet.
+            Embark on a journey to academic success with our unparalleled
+            assignment writing service, available to you wherever you are on the
+            planet
           </p>
         </div>
       </div>

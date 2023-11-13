@@ -38,13 +38,17 @@ function App() {
           <Footer />
         </div>
       </div>
-      <div className="fixed right-5 bottom-5 z-50">
+      <a
+        href="https://wa.me/+917573988915"
+        target="_blank"
+        className="fixed right-5 bottom-5 z-50"
+      >
         <img
           src={whatsapp}
           alt="WhastApp"
           className="object-contain  w-[50px] h-[50px]"
         />
-      </div>
+      </a>
     </main>
   );
 }
